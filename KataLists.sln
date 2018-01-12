@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataLists", "KataLists.csproj", "{FECAA0D1-7C30-4BF3-855F-224E1369A05D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsTest", "..\ListsTest\ListsTest.csproj", "{587FE22D-4BB1-46F2-8917-C877EFD2D64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECAA0D1-7C30-4BF3-855F-224E1369A05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECAA0D1-7C30-4BF3-855F-224E1369A05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECAA0D1-7C30-4BF3-855F-224E1369A05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECAA0D1-7C30-4BF3-855F-224E1369A05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587FE22D-4BB1-46F2-8917-C877EFD2D64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587FE22D-4BB1-46F2-8917-C877EFD2D64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587FE22D-4BB1-46F2-8917-C877EFD2D64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587FE22D-4BB1-46F2-8917-C877EFD2D64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF558ED2-B86A-4839-81F6-330EEB5A3FA1}
+	EndGlobalSection
+EndGlobal
